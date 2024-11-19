@@ -120,7 +120,7 @@ const experiences = [
     company_name: "DSS EDUCATION GROUP",
     icon: dss,
     iconBg: "#fff",
-    date: "July 2024 - Nov 2024",
+    date: "July 2024 - Oct 2024",
     points: [
       "Develop Odoo technology on web and mobile platforms.",
       "Use and develop a company website with WordPress.",
